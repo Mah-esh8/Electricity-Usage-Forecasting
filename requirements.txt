@@ -1,0 +1,5 @@
+pandas>=2.0.0
+prophet>=1.1.0
+matplotlib>=3.7.0
+plotly>=5.13.0
+streamlit>=1.22.0
